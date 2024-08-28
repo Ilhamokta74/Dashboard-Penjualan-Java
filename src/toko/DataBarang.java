@@ -216,6 +216,8 @@ public class DataBarang extends javax.swing.JFrame {
 
         jLabel3.setText("ID Barang");
 
+        txIDBarang.setEnabled(false);
+
         jLabel4.setText("Nama Barang");
 
         jLabel5.setText("Jenis Barang");
